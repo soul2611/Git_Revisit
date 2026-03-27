@@ -4,3 +4,8 @@ const acc_bal = 250;
 
 
 const gender = "Male";
+
+console.log("I have fixed a bug.");
+
+
+console.log("I have fixed a bug.");
